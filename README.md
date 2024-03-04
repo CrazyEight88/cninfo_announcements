@@ -1,4 +1,4 @@
-# 2024 最新cninfo报告下载与词频分析！
+# 2024 最新cninfo公告下载与词频分析！
 ## 使用说明：
 * 你可以直接下载main.ipynb文件，并准备自己的公司代码列表Excel（仅需要code字段），按步骤运行即可；
 * 或者右上方code按钮，选择download zip，解压后运行main.ipynb文件；

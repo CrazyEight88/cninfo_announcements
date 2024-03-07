@@ -1,2 +1,5 @@
 .DS_Store
 output/02_announcements_lists/*
+output/02_announcements_list.csv
+output/04_announcements/*
+*.pdf
